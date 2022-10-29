@@ -33,7 +33,7 @@ public class Main
                     list = cur_string;
                     check = true;
                     //System.out.println(i);
-                    continue;
+                    continue; // personally, "break" is much more simple
                 }
                 //System.out.println(list.size()+ " "+ i);
             }
